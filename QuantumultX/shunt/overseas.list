@@ -1,5 +1,15 @@
 #海外服务
 
+# > PikPak
+HOST-SUFFIX,dlandroid.rcv.sandai.net,海外服务
+HOST-SUFFIX,hub5idx.v6.shub.sandai.net,海外服务
+HOST-SUFFIX,hub5pn.wap.sandai.net,海外服务
+HOST-SUFFIX,hub5pnc.sandai.net,海外服务
+HOST-SUFFIX,hub5pr.v6.phub.sandai.net,海外服务
+HOST-SUFFIX,hubciddata.sandai.net,海外服务
+HOST-SUFFIX,mypikpak.com,海外服务
+HOST-KEYWORD,mypikpak,海外服务
+
 # > Emby
 HOST-SUFFIX,emby-cf.plusmedia.site,海外服务
 HOST-SUFFIX,tv.emby.media,海外服务
@@ -23,7 +33,7 @@ USER-AGENT,Resilio Sync*,海外服务
 USER-AGENT,WhatsApp*,海外服务
 
 # > Google Voice
-HOST,voice.telephony.goog,海外服务
+HOST,lens.l.google.com,海外服务
 
 # > Line
 HOST-SUFFIX,lin.ee,海外服务
